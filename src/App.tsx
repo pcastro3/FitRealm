@@ -1,6 +1,6 @@
 import React from 'react';
 import Button from '@mui/material/Button';
-import './App.css';
+import './SASS/App.scss';
 import HomePage from './Components/HomePage';
 
 function App() {
