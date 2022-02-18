@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "react-swipeable-views": "^0.14.0",
     "sass": "^1.49.7"
   }
 }
